@@ -48,7 +48,7 @@ Navigation buttons are available on the Home Page to access each analytical dash
 
 # Project Overview 
 
-![Project Overview](06_Images/01_Project Overview.png)
+![Project Overview](06_Images/01_Project_Overview.png)
 
 ## Business Objective
 ...
